@@ -8,7 +8,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QDaQuFDozY8r4Y1Aa9UJEzWkGM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -36,21 +40,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.task 2-icp2.html">
-    <configuration name="ICP2-Task1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP-2/ICP2-Task1.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.ICP-2-TASK-2.html">
+    <configuration name="ICP-2-TASK-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP-2/ICP-2-TASK-1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="cubes trial.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP-2/cubes trial.html" useBuiltInWebServerPort="true">
+    <configuration name="ICP-2-TASK-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP-2/ICP-2-TASK-2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="task 2-icp2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP-2/task 2-icp2.html" useBuiltInWebServerPort="true">
+    <configuration name="ICP-2-TASK-3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP-2/ICP-2-TASK-3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.task 2-icp2.html" />
-        <item itemvalue="JavaScript Debug.ICP2-Task1.html" />
-        <item itemvalue="JavaScript Debug.cubes trial.html" />
+        <item itemvalue="JavaScript Debug.ICP-2-TASK-2.html" />
+        <item itemvalue="JavaScript Debug.ICP-2-TASK-1.html" />
+        <item itemvalue="JavaScript Debug.ICP-2-TASK-3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -64,11 +68,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567307786349</updated>
-      <workItem from="1567307787514" duration="1427000" />
+      <workItem from="1567307787514" duration="1926000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
